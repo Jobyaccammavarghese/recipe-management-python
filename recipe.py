@@ -45,5 +45,3 @@ while True:
         else:
             print("Invalid option, please try again.")
 
-# if __name__ == "__main__":
-#     main()
